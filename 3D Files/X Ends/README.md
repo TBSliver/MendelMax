@@ -1,0 +1,2 @@
+# X Ends #
+These are based on the X Ends designed originally by jonaskuehling (http://www.thingiverse.com/thing:18384) And edited by tommyc (http://www.thingiverse.com/thing:21122), and then customised by me to fit the trapezoidal nuts for 10mm leadscrew, and LM10UU bearings. These still fit 8mm X rods with 50mm spacing, and use the 30mm spacing between leadscrew and rod.
